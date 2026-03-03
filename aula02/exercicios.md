@@ -38,9 +38,12 @@ IMC = peso / (altura * altura);
 #### Exercício 3
 Ler um número inteiro de 3 dígitos e apresentar a unidade, dezena e centena deste número. 
 > Exemplo para a leitura do inteiro 742
-> CENTENA: 7
-> DEZENA: 4
-> UNIDADE: 2
+
+~~~java
+CENTENA: 7
+DEZENA: 4
+UNIDADE: 2
+~~~
 
 #### Exercício 4
 Ler o horário de início e término de uma reunião e apresentar o tempo de duração da reunião.

@@ -1,6 +1,6 @@
 <img src="/assets/teste.svg" width="100%">
 
-# Aula 2 - 10/03/2025
+# Aula 2 - 24/02/2026
 
 
 ## Estrutura da Classe Principal em Java
@@ -103,7 +103,6 @@ Um identificador pode conter:
 - letras (a–z, A–Z)  
 - números (0–9)  
 - underline `_`  
-- cifrão `$`  
 
 Exemplos válidos:
 

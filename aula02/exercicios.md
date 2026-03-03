@@ -12,8 +12,7 @@ O programa deve:
 2. Calcular a média ponderada utilizando a fórmula:
 
 ~~~java
-media = (nota1 * 30 + nota2 * 30 + nota3 * 40) 
-        / 100;
+media = (nota1 * 30 + nota2 * 30 + nota3 * 40) / 100;
 ~~~
 
 3. Exibir o valor da média na tela.
@@ -37,11 +36,11 @@ IMC = peso / (altura * altura);
 
 
 #### Exercício 3
-> Ler um número inteiro de 3 dígitos e apresentar a unidade, dezena e centena deste número. 
+Ler um número inteiro de 3 dígitos e apresentar a unidade, dezena e centena deste número. 
 > Exemplo para a leitura do inteiro 742
 > CENTENA: 7
 > DEZENA: 4
 > UNIDADE: 2
 
 #### Exercício 4
-> Ler o horário de início e término de uma reunião e apresentar o tempo de duração da reunião.
+Ler o horário de início e término de uma reunião e apresentar o tempo de duração da reunião.

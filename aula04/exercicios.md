@@ -1,6 +1,6 @@
 <img src="/assets/teste.svg" width="100%">
 
-# Exercícios - Aula 03
+# Exercícios - Aula 04 - 17/03
 
 #### Exercício 1
 > Dado o valor atual do salário de um funcionário, informe o valor de seu salário reajustado, de acordo com os percentuais indicados a seguir:

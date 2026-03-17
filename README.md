@@ -13,6 +13,6 @@
 * [Aula03](./aula03/) (03/03) - Operadores Relacionais / Lógicos e Desvios Condicionais
     * Códigos Aula: [Testes.java](./aula03/Testes.java)
 * **TECH WEEK** (10/03)
-* [Aula03](./aula04/) (17/03) - Exercícios de Desvios Condicionais
+* [Aula04](./aula04/) (17/03) - Exercícios de Desvios Condicionais
     * [Exercícios](./aula04/exercicios.md) 
     * Códigos Aula: 

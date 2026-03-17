@@ -8,8 +8,8 @@
     * [Exercícios](./aula01/exercicios.md)  
 * **(17/02) - CARNAVAL**
 * [Aula02](./aula02/) (24/02) - Introdução, Saída / Leitura e Variáveis 
-    * [Exercícios](./aula02/exercicios.md) [Exercicio3](./aula02/Exercicio3.java)
-    * Códigos Aula: [Prog.java](./aula02/Prog.java) [Teste.java](./aula02/Teste.java) 
+    * [Exercícios](./aula02/exercicios.md) 
+    * Códigos Aula: [Prog.java](./aula02/Prog.java) [Teste.java](./aula02/Teste.java) [Exercicio3](./aula02/Exercicio3.java)
 * [Aula03](./aula03/) (03/03) - Operadores Relacionais / Lógicos e Desvios Condicionais
     * Códigos Aula: [Testes.java](./aula03/Testes.java)
 * **TECH WEEK** (10/03)

@@ -15,4 +15,7 @@
 * **TECH WEEK** (10/03)
 * [Aula04](./aula04/) (17/03) - Exercícios de Desvios Condicionais
     * [Exercícios](./aula04/exercicios.md) 
-    * Códigos Aula: 
+    * Códigos Aula:  [Exercicio1.java](./aula04/Exercicio1.java) [Exercicio1v2.java](./aula04/Exercicio1v2.java) [Exercicio2.java](./aula04/Exercicio2.java) [Exercicio4.java](./aula04/Exercicio4.java) [Exercicio4v2.java](./aula04/Exercicio4v2.java) [Exercicio4v3.java](./aula04/Exercicio4v3.java) [Exercicio5.java](./aula04/Exercicio5.java)
+* [Aula05](./aula05/) (24/03) - Laços Repetição / Arrays
+    * [Exercícios](./aula05/exercicios.md) 
+    * Códigos Aula:

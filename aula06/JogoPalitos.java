@@ -38,11 +38,11 @@ public class JogoPalitos {
             System.out.println("qtdePCPalpite: " + qtdePCPalpite);
 
             if (qtdePJPalpite == qtdePCEscolhido + qtdePJEscolhido) {
-                System.out.println("Você acertou");
+                System.out.println("❤️ Você acertou ❤️");
                 qtdePJ--;
             } else {
                 if (qtdePCPalpite == qtdePCEscolhido + qtdePJEscolhido) {
-                    System.out.println("Computador acertou");
+                    System.out.println("😡 Computador acertou 😡");
                     qtdePC--;
                 } else {
                     System.out.println("Ninguém acertou");

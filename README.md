@@ -21,4 +21,7 @@
     * Códigos Aula: [A5Exercicio1.java](./aula05/A5Exercicio1.java) [A5Exercicio2.java](./aula05/A5Exercicio2.java) [A5Exercicio3.java](./aula05/A5Exercicio3.java) [A5Exercicio4.java](./aula05/A5Exercicio4.java) [A5Exercicio5.java](./aula05/A5Exercicio5.java)
 * [Aula06](./aula06/) (31/03) - Modularização
     * [Exercício do Jogo do Palitinho](./aula06/ExercicioJogoPalitinhos.md) 
+    * Códigos Aula: [JogoPalitos.java](./aula06/JogoPalitos.java)
+* [Aula07](./aula07/) (07/04) - Arrays e Modularização
+    * [Exercícios](./aula07/exercicios.md) 
     * Códigos Aula: 

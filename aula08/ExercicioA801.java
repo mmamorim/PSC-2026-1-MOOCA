@@ -10,18 +10,9 @@ public class ExercicioA801 {
         int qtde = 0;
         String textoLista = "";
 
-        // MATRIZ IDIOTA SÓ PARA RELAXAR A AULA
-        // String letras = "shasjkfhasf asjkfhasjkfhasfhasfj";
-        // for(int i=0; i < 10000000; i++) {
-        // int pos = (int)(Math.random()*100) % letras.length();
-        // System.out.print(letras.charAt(pos));
-        // }
-
         while (codigo >= 0) {
-            // IMPRESSÃO DO MENU
-            System.out.println("---------------------------");
-            System.out.println("MENU DE PRODUTOS");
-            System.out.println("---------------------------");
+
+            imprimeCabecalho();
             for (int i = 0; i < produtos.length; i++) {
                 System.out.println("" + i + " - " + produtos[i] + " (R$ " + precos[i] + ")");
             }
@@ -40,5 +31,12 @@ public class ExercicioA801 {
 
         System.out.println(textoLista);
 
+    }
+
+    // IMPRESSÃO DO MENU
+    public static void imprimeCabecalho() {
+        System.out.println("---------------------------");
+        System.out.println("MENU DE PRODUTOS");
+        System.out.println("---------------------------");
     }
 }

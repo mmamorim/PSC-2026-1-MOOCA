@@ -22,6 +22,9 @@
 * [Aula06](./aula06/) (31/03) - Modularização
     * [Exercício do Jogo do Palitinho](./aula06/ExercicioJogoPalitinhos.md) 
     * Códigos Aula: [JogoPalitos.java](./aula06/JogoPalitos.java)
-* [Aula07](./aula07/) (07/04) - Arrays e Modularização
+* [Aula07](./aula07/) (07/04) - Arrays 
     * [Exercícios](./aula07/exercicios.md) 
+    * Códigos Aula: [ExercicioA701.java](./aula07/ExercicioA701.java) [ExercicioA704.java](./aula07/ExercicioA704.java)
+* [Aula08](./aula08/) (14/04) - Modularização
+    * [Exercícios](./aula08/exercicios.md) 
     * Códigos Aula: 

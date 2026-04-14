@@ -10,27 +10,30 @@ public class ExercicioA801 {
         int codigo = 0;
         int qtde = 0;
         String textoLista = "";
+        double total = 0;
 
         while (codigo >= 0) {
+            Screen.clear();
+            System.out.println("----------------");
+            System.out.println("LISTA DE COMPRAS");
+            System.out.println("----------------");
+            System.out.println(textoLista);
+            System.out.println("----------------");
 
             imprimeCabecalho();
             imprimeOpcoesMenu();
             codigo = lerOpcao();
-            
 
             if (codigo >= 0) {
-                
-                //System.out.println("Digite a Qtde: ");
-                //qtde = leitor.nextInt();
                 qtde = lerQtde();
-
-                textoLista = textoLista + "[" + codigo + "] " + produtos[codigo];
-                textoLista = textoLista + " " + qtde + " unidades";
-                textoLista = textoLista + "\n";
+                total = total + precos[codigo] * qtde;
+                textoLista = textoLista + gerarLinhaCompra(codigo,qtde);
             }
         }
 
         System.out.println(textoLista);
+        System.out.println("TOTAL DA COMPRA: R$"+total);
+
 
     }
 
@@ -53,5 +56,22 @@ public class ExercicioA801 {
         System.out.println("Digite a opção (-1 p/ SAIR): ");
         int codigo = leitor.nextInt();
         return codigo;
+    }
+
+    public static int lerQtde() {
+        Scanner leitor = new Scanner(System.in);
+        System.out.println("Digite a Qtde: ");
+        int qtde = leitor.nextInt();
+        return qtde;
+    }
+
+    public static String gerarLinhaCompra(int codigo, int qtde) {
+        String textoLista = "";
+        double total = precos[codigo] * qtde;
+        textoLista = textoLista + "[" + codigo + "] " + produtos[codigo];
+        textoLista = textoLista + " " + qtde + " unidades";
+        textoLista = textoLista + " SUBTOTAL: R$" + total;
+        textoLista = textoLista + "\n";
+        return textoLista;
     }
 }

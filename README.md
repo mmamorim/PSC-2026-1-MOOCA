@@ -27,4 +27,6 @@
     * Códigos Aula: [ExercicioA701.java](./aula07/ExercicioA701.java) [ExercicioA704.java](./aula07/ExercicioA704.java)
 * [Aula08](./aula08/) (14/04) - Modularização
     * [Exercícios](./aula08/exercicios.md) 
-    * Códigos Aula: 
+    * Códigos Aula: [ExercicioA801](./aula08/ExercicioA801.java)
+* **FERIADO - TIRADENTES** (21/04)
+* [Aula09](./aula09/) (28/04) - REVISÃO A1

@@ -30,3 +30,6 @@
     * Códigos Aula: [ExercicioA801](./aula08/ExercicioA801.java)
 * **FERIADO - TIRADENTES** (21/04)
 * [Aula09](./aula09/) (28/04) - REVISÃO A1
+* **AVALIAÇÃO A1** (05/05)
+* [Aula10](./aula10/) (12/05) - Orientação a Objetos
+    * [Exercícios](./aula10/exercicios.md)

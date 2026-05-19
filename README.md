@@ -34,4 +34,12 @@
 * [Aula10](./aula10/) (12/05) - Orientação a Objetos
     * [Exercícios](./aula10/exercicios.md)
 * [Aula11](./aula11/) (19/05) - Resolvendo os exercícios
-    * 
+    * Solução Exercício 1 e 2
+        * [Piloto.java](./aula11/Piloto.java)
+        * [Aviao.java](./aula11/Aviao.java)
+        * [SimulacaoVoos.java](./aula11/SimulacaoVoos.java)
+    * Solução Exercício 3 e 4
+        * [TimeFutebol.java](./aula11/TimeFutebol.java)
+        * [Campeonato.java](./aula11/Campeonato.java)
+        * [SimulacaoCampeonato.java](./aula11/SimulacaoCapeonato.java)
+    

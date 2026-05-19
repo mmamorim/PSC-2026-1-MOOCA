@@ -33,3 +33,5 @@
 * **AVALIAÇÃO A1** (05/05)
 * [Aula10](./aula10/) (12/05) - Orientação a Objetos
     * [Exercícios](./aula10/exercicios.md)
+* [Aula11](./aula11/) (19/05) - Resolvendo os exercícios
+    * 
